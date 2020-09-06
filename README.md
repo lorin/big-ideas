@@ -30,6 +30,10 @@ David Woods
 
 ## Stories
 
-## End-to-end principal
+## End-to-end principle
+
+## Leverage points
+
+Donella Meadows
 
 
